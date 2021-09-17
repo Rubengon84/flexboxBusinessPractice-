@@ -1,4 +1,4 @@
-# flexboxBusinessPractice-
+# FlexboxBusinessPractice-
 
 Simple practice of a business webpage with flexbox.
 
